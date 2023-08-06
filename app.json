@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "native-guess-number",
-    "slug": "native-guess-number",
+    "name": "react-native-todo-list",
+    "slug": "react-native-todo-list",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
